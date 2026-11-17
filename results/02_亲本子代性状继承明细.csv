@@ -1,0 +1,403 @@
+﻿子代,母本,父本,亲本角色,亲本名称,性状列,亲本性状,子代性状,是否继承,判断方式
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父母共同,MituoReflexDragon + MituoLove,最终主色,复色,复色,1,父母性状相同，判断子代是否保持该性状
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,边缘色,黄,黄绿,0,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,唇瓣颜色,白,紫红,0,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父母共同,MituoReflexDragon + MituoLove,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父母共同,MituoReflexDragon + MituoLove,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoLoveDragon,MituoReflexDragon,MituoLove,母本,MituoReflexDragon,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父本,MituoLove,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoLoveDragon,MituoReflexDragon,MituoLove,父母共同,MituoReflexDragon + MituoLove,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,最终主色,白,复色,0,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,边缘色,绿,黄,0,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,边缘色,无明显边,黄,0,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,唇瓣颜色,紫红,白,0,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父母共同,LyndonReflex + LDDoubleDragon,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,母本,LyndonReflex,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父本,LDDoubleDragon,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoReflexDragon,LyndonReflex,LDDoubleDragon,父母共同,LyndonReflex + LDDoubleDragon,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父母共同,MituoPrince + BellinaEagle,最终主色,复色,复色,1,父母性状相同，判断子代是否保持该性状
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,边缘色,绿,无明显边,0,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,边缘色,黄,无明显边,0,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父母共同,MituoPrince + BellinaEagle,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父母共同,MituoPrince + BellinaEagle,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoLove,MituoPrince,BellinaEagle,母本,MituoPrince,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父本,BellinaEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoLove,MituoPrince,BellinaEagle,父母共同,MituoPrince + BellinaEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,最终主色,紫红,白,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,最终主色,白,白,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,边缘色,无明显边,绿,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,边缘色,黄绿,绿,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,唇瓣颜色,紫红,白,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父母共同,PrincessKaiulani + ChangMawJade,是否有斑点,0,1,0,父母性状相同，判断子代是否保持该性状
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父母共同,PrincessKaiulani + ChangMawJade,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+LyndonReflex,PrincessKaiulani,ChangMawJade,母本,PrincessKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父本,ChangMawJade,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LyndonReflex,PrincessKaiulani,ChangMawJade,父母共同,PrincessKaiulani + ChangMawJade,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,最终主色,复色,复色,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,边缘色,无明显边,无明显边,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,母本,LDsBearQueen,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父本,DragonTreeEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDDoubleDragon,LDsBearQueen,DragonTreeEagle,父母共同,LDsBearQueen + DragonTreeEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,最终主色,红,复色,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,边缘色,无明显边,绿,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,边缘色,无明显边,绿,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父母共同,LDsBearQueen + LDsBearKing,边缘色,无明显边,绿,0,父母性状相同，判断子代是否保持该性状
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,唇瓣颜色,红,紫红,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父母共同,LDsBearQueen + LDsBearKing,是否有斑点,0,1,0,父母性状相同，判断子代是否保持该性状
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父母共同,LDsBearQueen + LDsBearKing,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoPrince,LDsBearQueen,LDsBearKing,母本,LDsBearQueen,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父本,LDsBearKing,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoPrince,LDsBearQueen,LDsBearKing,父母共同,LDsBearQueen + LDsBearKing,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父母共同,MituoKaiulaniEagle + Bellina,最终主色,复色,复色,1,父母性状相同，判断子代是否保持该性状
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,边缘色,黄绿,黄,0,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,边缘色,绿,黄,0,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父母共同,MituoKaiulaniEagle + Bellina,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父母共同,MituoKaiulaniEagle + Bellina,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,母本,MituoKaiulaniEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父本,Bellina,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+BellinaEagle,MituoKaiulaniEagle,Bellina,父母共同,MituoKaiulaniEagle + Bellina,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+PrincessKaiulani,violacea,amboinensis,母本,violacea,最终主色,紫,紫红,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,最终主色,复色,紫红,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,母本,violacea,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,边缘色,黄,无明显边,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,母本,violacea,唇瓣颜色,紫,紫红,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,唇瓣颜色,白,紫红,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,母本,violacea,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父母共同,violacea + amboinensis,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+PrincessKaiulani,violacea,amboinensis,母本,violacea,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,母本,violacea,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父本,amboinensis,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+PrincessKaiulani,violacea,amboinensis,父母共同,violacea + amboinensis,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,最终主色,白,白,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,最终主色,白,白,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,最终主色,白,白,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,边缘色,黄绿,黄绿,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,边缘色,黄绿,黄绿,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,边缘色,黄绿,黄绿,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,唇瓣颜色,白,白,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,母本,YunghoGelbCanary,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父本,YunghoGelblitz,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+ChangMawJade,YunghoGelbCanary,YunghoGelblitz,父母共同,YunghoGelbCanary + YunghoGelblitz,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父母共同,Bellina + DragonTreeEagle,最终主色,复色,复色,1,父母性状相同，判断子代是否保持该性状
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,边缘色,绿,无明显边,0,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父母共同,Bellina + DragonTreeEagle,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父母共同,Bellina + DragonTreeEagle,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父母共同,Bellina + DragonTreeEagle,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+LDsBearQueen,Bellina,DragonTreeEagle,母本,Bellina,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父本,DragonTreeEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDsBearQueen,Bellina,DragonTreeEagle,父母共同,Bellina + DragonTreeEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,最终主色,红,复色,0,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,最终主色,红,复色,0,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父母共同,PenangGirl + BlackEagle,最终主色,红,复色,0,父母性状相同，判断子代是否保持该性状
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,边缘色,绿,无明显边,0,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父母共同,PenangGirl + BlackEagle,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父母共同,PenangGirl + BlackEagle,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父母共同,PenangGirl + BlackEagle,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+DragonTreeEagle,PenangGirl,BlackEagle,母本,PenangGirl,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父本,BlackEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+DragonTreeEagle,PenangGirl,BlackEagle,父母共同,PenangGirl + BlackEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,最终主色,复色,红,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,最终主色,复色,红,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父母共同,HannoverPassion + DragonTreeEagle,最终主色,复色,红,0,父母性状相同，判断子代是否保持该性状
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,边缘色,黄绿,无明显边,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,唇瓣颜色,白,红,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,唇瓣颜色,紫红,红,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父母共同,HannoverPassion + DragonTreeEagle,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,母本,HannoverPassion,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父本,DragonTreeEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LDsBearKing,HannoverPassion,DragonTreeEagle,父母共同,HannoverPassion + DragonTreeEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,最终主色,紫红,复色,0,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父母共同,SogoKaiulani + DragonTreeEagle,边缘色,无明显边,黄绿,0,父母性状相同，判断子代是否保持该性状
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父母共同,SogoKaiulani + DragonTreeEagle,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父母共同,SogoKaiulani + DragonTreeEagle,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父母共同,SogoKaiulani + DragonTreeEagle,是否有条纹,0,1,0,父母性状相同，判断子代是否保持该性状
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,母本,SogoKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父本,DragonTreeEagle,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+MituoKaiulaniEagle,SogoKaiulani,DragonTreeEagle,父母共同,SogoKaiulani + DragonTreeEagle,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,最终主色,黄,白,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,最终主色,紫红,白,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父母共同,Gelblieber + PrincessKaiulani,边缘色,无明显边,黄绿,0,父母性状相同，判断子代是否保持该性状
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,唇瓣颜色,紫红,白,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,母本,Gelblieber,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父本,PrincessKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbCanary,Gelblieber,PrincessKaiulani,父母共同,Gelblieber + PrincessKaiulani,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,最终主色,黄,白,0,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,最终主色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父母共同,Gelblieber + Micholitzii,边缘色,无明显边,黄绿,0,父母性状相同，判断子代是否保持该性状
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父母共同,Gelblieber + Micholitzii,唇瓣颜色,白,白,1,父母性状相同，判断子代是否保持该性状
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,母本,Gelblieber,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父本,Micholitzii,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelblitz,Gelblieber,Micholitzii,父母共同,Gelblieber + Micholitzii,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+PenangGirl,violacea,Venosa,母本,violacea,最终主色,紫,红,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,最终主色,复色,红,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,母本,violacea,边缘色,无明显边,绿,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,边缘色,黄绿,绿,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,母本,violacea,唇瓣颜色,紫,紫红,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,唇瓣颜色,白,紫红,0,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,母本,violacea,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父母共同,violacea + Venosa,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+PenangGirl,violacea,Venosa,母本,violacea,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父母共同,violacea + Venosa,是否有条纹,0,0,1,父母性状相同，判断子代是否保持该性状
+PenangGirl,violacea,Venosa,母本,violacea,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父本,Venosa,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+PenangGirl,violacea,Venosa,父母共同,violacea + Venosa,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,最终主色,橙红,红,0,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,最终主色,复色,红,0,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父母共同,CoralNosa + GeorgeVasquez,边缘色,无明显边,无明显边,1,父母性状相同，判断子代是否保持该性状
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父母共同,CoralNosa + GeorgeVasquez,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,母本,CoralNosa,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父本,GeorgeVasquez,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+BlackEagle,CoralNosa,GeorgeVasquez,父母共同,CoralNosa + GeorgeVasquez,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,最终主色,黄,复色,0,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,最终主色,复色,复色,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,边缘色,白边,黄绿,0,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,唇瓣颜色,紫红,白,0,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父母共同,Gelblieber + Mariae,是否有条纹,1,1,1,父母性状相同，判断子代是否保持该性状
+HannoverPassion,Gelblieber,Mariae,母本,Gelblieber,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父本,Mariae,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+HannoverPassion,Gelblieber,Mariae,父母共同,Gelblieber + Mariae,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,最终主色,紫红,紫红,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,最终主色,复色,紫红,0,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,边缘色,黄绿,无明显边,0,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,唇瓣颜色,白,紫红,0,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父母共同,PrincessKaiulani + YunghoPrincessGelb,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,母本,PrincessKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父本,YunghoPrincessGelb,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+SogoKaiulani,PrincessKaiulani,YunghoPrincessGelb,父母共同,PrincessKaiulani + YunghoPrincessGelb,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,最终主色,复色,黄,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,最终主色,白,黄,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,边缘色,黄,无明显边,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父母共同,amboinensis + Micholitzii,唇瓣颜色,白,白,1,父母性状相同，判断子代是否保持该性状
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父母共同,amboinensis + Micholitzii,是否有斑点,0,1,0,父母性状相同，判断子代是否保持该性状
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,母本,amboinensis,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父本,Micholitzii,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+Gelblieber,amboinensis,Micholitzii,父母共同,amboinensis + Micholitzii,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,最终主色,紫红,橙红,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,最终主色,复色,橙红,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,边缘色,白边,无明显边,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,边缘色,黄绿,无明显边,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,唇瓣颜色,白,紫红,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父母共同,CoralIsles + Venosa,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,是否有条纹,1,0,0,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,是否有条纹,0,0,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,母本,CoralIsles,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父本,Venosa,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+CoralNosa,CoralIsles,Venosa,父母共同,CoralIsles + Venosa,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,最终主色,紫,复色,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,最终主色,紫,复色,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父母共同,violacea + LueddeViolacea,最终主色,紫,复色,0,父母性状相同，判断子代是否保持该性状
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父母共同,violacea + LueddeViolacea,边缘色,无明显边,无明显边,1,父母性状相同，判断子代是否保持该性状
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,唇瓣颜色,紫,紫红,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父母共同,violacea + LueddeViolacea,是否有斑点,0,1,0,父母性状相同，判断子代是否保持该性状
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,母本,violacea,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父本,LueddeViolacea,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+GeorgeVasquez,violacea,LueddeViolacea,父母共同,violacea + LueddeViolacea,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,最终主色,黄,复色,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,最终主色,紫红,复色,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,边缘色,无明显边,黄绿,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父母共同,YunghoGelbliambo + PrincessKaiulani,边缘色,无明显边,黄绿,0,父母性状相同，判断子代是否保持该性状
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,唇瓣颜色,紫红,白,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,是否有斑点,1,0,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,母本,YunghoGelbliambo,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父本,PrincessKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoPrincessGelb,YunghoGelbliambo,PrincessKaiulani,父母共同,YunghoGelbliambo + PrincessKaiulani,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,最终主色,紫红,紫红,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,最终主色,紫红,紫红,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父母共同,PrincessKaiulani + lueddemanniana,最终主色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,边缘色,无明显边,白边,0,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,边缘色,无明显边,白边,0,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父母共同,PrincessKaiulani + lueddemanniana,边缘色,无明显边,白边,0,父母性状相同，判断子代是否保持该性状
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父母共同,PrincessKaiulani + lueddemanniana,唇瓣颜色,紫红,紫红,1,父母性状相同，判断子代是否保持该性状
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父母共同,PrincessKaiulani + lueddemanniana,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,母本,PrincessKaiulani,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父本,lueddemanniana,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+CoralIsles,PrincessKaiulani,lueddemanniana,父母共同,PrincessKaiulani + lueddemanniana,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,最终主色,紫红,紫,0,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,最终主色,紫,紫,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父母共同,lueddemanniana + violacea,边缘色,无明显边,无明显边,1,父母性状相同，判断子代是否保持该性状
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,唇瓣颜色,紫红,紫红,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,唇瓣颜色,紫,紫红,0,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,是否有斑点,0,0,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父母共同,lueddemanniana + violacea,是否有斑点,0,0,1,父母性状相同，判断子代是否保持该性状
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,是否有条纹,0,1,0,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,母本,lueddemanniana,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父本,violacea,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+LueddeViolacea,lueddemanniana,violacea,父母共同,lueddemanniana + violacea,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,最终主色,黄,黄,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,最终主色,复色,黄,0,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,边缘色,无明显边,无明显边,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,边缘色,黄,无明显边,0,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,唇瓣颜色,白,白,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父母共同,Gelblieber + amboinensis,唇瓣颜色,白,白,1,父母性状相同，判断子代是否保持该性状
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,是否有斑点,1,1,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,是否有斑点,0,1,0,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,是否有条纹,1,1,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父母共同,Gelblieber + amboinensis,是否有条纹,1,1,1,父母性状相同，判断子代是否保持该性状
+YunghoGelbliambo,Gelblieber,amboinensis,母本,Gelblieber,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父本,amboinensis,是否有眼斑,0,0,1,子代性状与该亲本性状完全相同
+YunghoGelbliambo,Gelblieber,amboinensis,父母共同,Gelblieber + amboinensis,是否有眼斑,0,0,1,父母性状相同，判断子代是否保持该性状

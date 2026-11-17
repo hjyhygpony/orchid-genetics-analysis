@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Large / restricted data
+data/processed1/
+data/processed1.zip
+*.rar
+*.zip
+
+# Generated reports
+docs/*.docx
+docs/*.pdf
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

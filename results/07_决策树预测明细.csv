@@ -1,0 +1,11 @@
+﻿品种名（英文）,真实类别,预测类别,是否预测正确
+violacea,野生种,杂交种,错误
+Micholitzii,野生种,野生种,正确
+CoralNosa,杂交种,杂交种,正确
+SogoKaiulani,杂交种,杂交种,正确
+YunghoGelblitz,杂交种,杂交种,正确
+Gelblieber,杂交种,野生种,错误
+BellinaEagle,杂交种,野生种,错误
+PrincessKaiulani,杂交种,野生种,错误
+YunghoGelbliambo,杂交种,野生种,错误
+DragonTreeEagle,杂交种,野生种,错误
