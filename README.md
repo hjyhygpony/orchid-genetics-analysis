@@ -46,12 +46,12 @@ data/族谱.xlsx              # 33 个品种的族谱关系
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-python src/遗传分析.py --features data\朵丽蝶_特征总表.csv --lineage data\族谱.xlsx
+python src/genetic_analysis.py --features data\朵丽蝶_特征总表.csv --lineage data\族谱.xlsx
 ```
 
 主要入口：
 
-- `src/遗传分析.py`：完整分析流程
+- `src/genetic_analysis.py`：完整分析流程
 - `src/step0.py`：数据检查
 - `src/step1_preprocess.py`：预处理
 - `src/step2_extract.py` / `step2new.py`：特征处理实验
@@ -73,3 +73,4 @@ orchid-genetics-analysis/
 - 样本量为 33，属于单谱系非随机采样，统计概率不能外推为朵丽蝶总体规律。
 - 品种照片受光照和白平衡影响，跨品种颜色绝对值对比较为敏感。
 - 决策树和交叉验证结果用于课程分析，不构成育种或商业决策依据。
+
